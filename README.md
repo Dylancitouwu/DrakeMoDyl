@@ -1,6 +1,6 @@
 # DrakeMoDyl
 💻 ¡Hola, soy Dylan! 🚀
-🎓 Estudiante de Ingeniería en la Universidad Politécnica Salesiana| Apasionado por la Programación y el Desarrollo de Software
+🎓 Estudiante de Ingeniería en la Universidad Politécnica Salesiana | Apasionado por la Programación y el Desarrollo de Software
 Actualmente, estoy aprendiendo programación y desarrollo de software, enfocándome en lógica de programación, estructuras de datos y desarrollo de aplicaciones. Me gusta aplicar lo que aprendo en proyectos prácticos y siempre busco mejorar mis habilidades.
 
 🚀 Tecnologías y Herramientas
