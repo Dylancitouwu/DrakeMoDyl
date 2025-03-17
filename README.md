@@ -18,4 +18,4 @@ Sistema de Gestión de Productos - Proyecto en Java con gestión de clientes, pr
 📫 Contacto
 📧 Email: daguilarq@est.ups.edu.ec
 💻 GitHub: DrakeMoDyl
-⚡ ¡Siempre aprendiendo y mejorando mis habilidades!
+⚡ Trato de aprender lo mejor posible y sacar provecho al máximo las oportunidades que se presentan
